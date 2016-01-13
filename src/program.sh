@@ -1,0 +1,1 @@
+date >> mylog.log
